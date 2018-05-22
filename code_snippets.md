@@ -1,3 +1,10 @@
+## Google Maps API integration for route creation
+A custom color scheme was created for the route creation map - runners and cyclists don't usually run on highways or mayor thoroughfares, so these were de-emphasized. Overall, the color scheme was created to help the user choose a safe and pedestrian / cyclist friendly route. 
+
+Additional controls were added specifically to aid in the route creation process, including the ability to easily switch between travel modes and undo / redo waypoints.
+
+![Route creation utilities](https://github.com/azuzunaga/lucha-readme-assets/blob/master/route_creation.gif)
+
 ## Creating new activies
 The application supports activity and statistics tracking via user input. Distance, elevation, and GPS coordinates from previously created routes can be logged by simply clicking on the route card.
 
