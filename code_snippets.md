@@ -1,4 +1,6 @@
 ## Creating new activies
+The application supports activity and statistics tracking via user input. Distance, elevation, and GPS coordinates from previously created routes can be logged by simply clicking on the route card.
+
 ![Creating new activities](https://github.com/azuzunaga/lucha-readme-assets/blob/master/new_activity.gif)
 
 
