@@ -1,3 +1,7 @@
+## Creating new activies
+![Creating new activities](https://github.com/azuzunaga/lucha-readme-assets/blob/master/new_activity.gif)
+
+
 Route statistics are filled when a route is clicked. The route card component is reused throughout the application, so a prop is used to tell the component to add an event handler to each card:
 
 ```js
